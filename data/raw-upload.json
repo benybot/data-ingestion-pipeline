@@ -1,0 +1,37 @@
+{
+  "source": "csv_upload",
+  "headers": [
+    "Transaction Date",
+    "Transaction Type",
+    "Fee Name",
+    "Transaction Number",
+    "Details",
+    "Seller SKU",
+    "Lazada SKU",
+    "Amount",
+    "VAT in Amount",
+    "WHT Amount",
+    "Paid Status",
+    "Order No.",
+    "Order Item No.",
+    "Total Released Amount (₱)"
+  ],
+  "rows": [
+    {
+      "Transaction Date": "2026-03-01",
+      "Transaction Type": "Payment",
+      "Fee Name": "Commission",
+      "Transaction Number": "TXN-1001",
+      "Details": "Sample detail",
+      "Seller SKU": "SKU-001",
+      "Lazada SKU": "LZD-001",
+      "Amount": "1500.00",
+      "VAT in Amount": "180.00",
+      "WHT Amount": "30.00",
+      "Paid Status": "Paid",
+      "Order No.": "ORD-001",
+      "Order Item No.": "ITEM-001",
+      "Total Released Amount (₱)": "1290.00"
+    }
+  ]
+}
