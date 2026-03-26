@@ -1,0 +1,18 @@
+{
+  "field_map": {
+    "Transaction Date": "transactiondate",
+    "Transaction Type": "transactiontype",
+    "Fee Name": "feename",
+    "Transaction Number": "transactionnumber",
+    "Details": "details",
+    "Seller SKU": "sellersku",
+    "Lazada SKU": "lazadasku",
+    "Amount": "amount",
+    "VAT in Amount": "vatinamount",
+    "WHT Amount": "whtamount",
+    "Paid Status": "paidstatus",
+    "Order No.": "orderno",
+    "Order Item No.": "orderitemno",
+    "Total Released Amount (₱)": "totalreleasedamount"
+  }
+}
