@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "transactiondate": "2026-03-01",
+      "transactiontype": "Payment",
+      "feename": "Commission",
+      "transactionnumber": "TXN-1001",
+      "details": "Sample detail",
+      "sellersku": "SKU-001",
+      "lazadasku": "LZD-001",
+      "amount": 1500,
+      "vatinamount": 180,
+      "whtamount": 30,
+      "paidstatus": "Paid",
+      "orderno": "ORD-001",
+      "orderitemno": "ITEM-001",
+      "totalreleasedamount": 1290
+    }
+  ]
+}
